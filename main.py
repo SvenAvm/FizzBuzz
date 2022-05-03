@@ -6,5 +6,3 @@ def fizz_buzz(input):
     if input % 5 == 0:
         return "Buzz"
     return input
-
-print(fizz_buzz(5))
